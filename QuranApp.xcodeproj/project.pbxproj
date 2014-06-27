@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C1C906F194BC2400010EDE5 /* UthmanicHafs1 Ver09.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4C1C906E194BC2400010EDE5 /* UthmanicHafs1 Ver09.otf */; };
 		4C9A313318CA396D00CD87B8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C9A313218CA396D00CD87B8 /* Foundation.framework */; };
 		4C9A313518CA396D00CD87B8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C9A313418CA396D00CD87B8 /* CoreGraphics.framework */; };
 		4C9A313718CA396D00CD87B8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C9A313618CA396D00CD87B8 /* UIKit.framework */; };
@@ -21,6 +22,11 @@
 		4C9A315418CA396D00CD87B8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C9A313618CA396D00CD87B8 /* UIKit.framework */; };
 		4C9A315C18CA396D00CD87B8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4C9A315A18CA396D00CD87B8 /* InfoPlist.strings */; };
 		4C9A315E18CA396D00CD87B8 /* QuranAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9A315D18CA396D00CD87B8 /* QuranAppTests.m */; };
+		4CAF1FF718CA3EB00053F029 /* quranapp-background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4CAF1FF618CA3EB00053F029 /* quranapp-background.jpg */; };
+		4CAF1FF918CA45410053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4CAF1FF818CA45410053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg */; };
+		4CAF1FFB18CA45F30053F029 /* quranapp-background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4CAF1FFA18CA45F30053F029 /* quranapp-background.jpg */; };
+		4CAF1FFD18CA45FB0053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4CAF1FFC18CA45FB0053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg */; };
+		4CE1CE8818CB63DA00AF3942 /* GE_Dinar_One_Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4CE1CE8718CB63DA00AF3942 /* GE_Dinar_One_Medium.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4C1C906E194BC2400010EDE5 /* UthmanicHafs1 Ver09.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UthmanicHafs1 Ver09.otf"; sourceTree = "<group>"; };
+		4C74CECE194BC46D005AC871 /* UthmanicHafs1 Ver09.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UthmanicHafs1 Ver09.otf"; sourceTree = "<group>"; };
 		4C9A312F18CA396D00CD87B8 /* QuranApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuranApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C9A313218CA396D00CD87B8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4C9A313418CA396D00CD87B8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +61,11 @@
 		4C9A315918CA396D00CD87B8 /* QuranAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuranAppTests-Info.plist"; sourceTree = "<group>"; };
 		4C9A315B18CA396D00CD87B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4C9A315D18CA396D00CD87B8 /* QuranAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuranAppTests.m; sourceTree = "<group>"; };
+		4CAF1FF618CA3EB00053F029 /* quranapp-background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "quranapp-background.jpg"; sourceTree = "<group>"; };
+		4CAF1FF818CA45410053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg"; sourceTree = "<group>"; };
+		4CAF1FFA18CA45F30053F029 /* quranapp-background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "quranapp-background.jpg"; sourceTree = "<group>"; };
+		4CAF1FFC18CA45FB0053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg"; sourceTree = "<group>"; };
+		4CE1CE8718CB63DA00AF3942 /* GE_Dinar_One_Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = GE_Dinar_One_Medium.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +95,11 @@
 		4C9A312618CA396D00CD87B8 = {
 			isa = PBXGroup;
 			children = (
+				4C74CECE194BC46D005AC871 /* UthmanicHafs1 Ver09.otf */,
+				4C1C906E194BC2400010EDE5 /* UthmanicHafs1 Ver09.otf */,
+				4CE1CE8718CB63DA00AF3942 /* GE_Dinar_One_Medium.otf */,
+				4CAF1FFC18CA45FB0053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg */,
+				4CAF1FFA18CA45F30053F029 /* quranapp-background.jpg */,
 				4C9A313818CA396D00CD87B8 /* QuranApp */,
 				4C9A315718CA396D00CD87B8 /* QuranAppTests */,
 				4C9A313118CA396D00CD87B8 /* Frameworks */,
@@ -126,6 +144,8 @@
 		4C9A313918CA396D00CD87B8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4CAF1FF818CA45410053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg */,
+				4CAF1FF618CA3EB00053F029 /* quranapp-background.jpg */,
 				4C9A313A18CA396D00CD87B8 /* QuranApp-Info.plist */,
 				4C9A313B18CA396D00CD87B8 /* InfoPlist.strings */,
 				4C9A313E18CA396D00CD87B8 /* main.m */,
@@ -228,9 +248,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C1C906F194BC2400010EDE5 /* UthmanicHafs1 Ver09.otf in Resources */,
+				4CE1CE8818CB63DA00AF3942 /* GE_Dinar_One_Medium.otf in Resources */,
+				4CAF1FFD18CA45FB0053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg in Resources */,
+				4CAF1FF918CA45410053F029 /* stock-photo-the-holy-quran-isolated-on-white-background-55833463.jpg in Resources */,
+				4CAF1FFB18CA45F30053F029 /* quranapp-background.jpg in Resources */,
 				4C9A314B18CA396D00CD87B8 /* Images.xcassets in Resources */,
 				4C9A313D18CA396D00CD87B8 /* InfoPlist.strings in Resources */,
 				4C9A314618CA396D00CD87B8 /* Main.storyboard in Resources */,
+				4CAF1FF718CA3EB00053F029 /* quranapp-background.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -377,7 +403,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QuranApp/QuranApp-Prefix.pch";
 				INFOPLIST_FILE = "QuranApp/QuranApp-Info.plist";
@@ -390,7 +416,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QuranApp/QuranApp-Prefix.pch";
 				INFOPLIST_FILE = "QuranApp/QuranApp-Info.plist";
@@ -460,6 +486,7 @@
 				4C9A316318CA396D00CD87B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C9A316418CA396D00CD87B8 /* Build configuration list for PBXNativeTarget "QuranAppTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +495,7 @@
 				4C9A316618CA396D00CD87B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
